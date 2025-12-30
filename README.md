@@ -15,4 +15,4 @@ This project analyzes the Netflix dataset to visualize content strategy, focusin
 2. Power Query: For Data Cleaning and Transformation (Handling nulls in Country/Rating).
 3. SQL : for data handling
 ### 📊 Dashboard Preview
-![Netflix Dashboard](Netflix-Dashboard-Final.png)
+![Netflix Dashboard](Netflix-Dashboard-Final.png.png)
